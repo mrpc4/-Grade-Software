@@ -1,4 +1,4 @@
-// Author: Chima Ukacukwu 
+// Author: Shubam Mahi - Chima Ukachukwu (Group Project)
 
 import java.util.Scanner;
 
@@ -53,7 +53,7 @@ public class Grade {
     }
 
     public static void main(String[] args) {
-        System.out.println("Name: Chima Ukachukwu");
+        System.out.println("Name: Shubham Mahi - Chima Ukachukwu (Final Group Project)");
 
         Scanner scan = new Scanner(System.in);
 
