@@ -1,0 +1,41 @@
+PS C:\Users\ukach>  & 'C:\Program Files\Java\jdk-21\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Program Files\KMSpico\temp\vscodesws_7680d\jdt_ws\jdt.ls-java-project\bin' 'Grade' 
+Name: Shubham Mahi - Chima Ukachukwu (Final Group Project)
+Percent in homework 1 : 
+5
+Percent in homework 2 : 
+6
+Percent in homework 3 : 
+23
+Percent in homework 4 : 
+45
+Percent in homework 5 : 
+6
+Percent in homework 6 : 
+7
+Percent in homework 7 : 
+9
+Percent in homework 8 : 
+24
+Percent in quiz 1 : 
+5
+Percent in quiz 2 : 
+7
+Percent in quiz 3 : 
+
+8
+Percent in quiz 4 : 
+
+78
+Percent in quiz 5 : 
+6
+Mid term percentage : 
+
+54
+Final term percentage : 
+40
+Project percentage : 
+30
+ 
+Final Percentage is: 83.096875
+Letter Grade: B
+PS C:\Users\ukach> 
